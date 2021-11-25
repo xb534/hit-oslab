@@ -61,5 +61,5 @@
 - 运行`./run`
 
     成功执行，截图如下
-    
-    [结果截图](./result.png)
+
+    [结果截图](./sources/result.png)
