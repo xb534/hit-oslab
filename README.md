@@ -11,7 +11,7 @@
     ```
 - 进入 linux-0.11，尝试编译
     ```
-    cd /root/oslab/
+    cd /root/oslab/linux-0.11
     make all
     ```
     报错 
@@ -36,9 +36,11 @@
 - 安装 gcc-3.4
 
     参考文档：[Ubuntu 20.04（64位）如何配置gcc-3.4用于编译linux-0.11](https://www.bilibili.com/read/cv6353911/)
+    
+    执行
 
     ```
-    执行：wget http://old-releases.ubuntu.com/ubuntu/pool/main/g/gcc-3.4/cpp-3.4_3.4.6-6ubuntu2_amd64.deb 
+    wget http://old-releases.ubuntu.com/ubuntu/pool/main/g/gcc-3.4/cpp-3.4_3.4.6-6ubuntu2_amd64.deb 
 
     wget http://old-releases.ubuntu.com/ubuntu/pool/main/g/gcc-3.4/gcc-3.4-base_3.4.6-6ubuntu2_amd64.deb
 
